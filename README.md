@@ -26,7 +26,7 @@ Scenario	| Portfolio Loss	| Key Driver
 - Net Zero 2050	| 2.78% (RM2.78B)	| Transition risk
 - Divergent Net Zero	| 5.00% (RM5.00B)	| Transition + physical
 - NDCs (Hot House World) | 6.71% (RM6.71B) | Physical risk
-- 
+  
 🏦 Bank Comparison Snapshot
 Bank	| Physical Risk	| Transition Risk| 	Net Zero Commitment
 Maybank	| RM76.7B |	RM8.5B	| Yes (2050)
