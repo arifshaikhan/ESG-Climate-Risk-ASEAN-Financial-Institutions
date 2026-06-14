@@ -49,7 +49,7 @@ This study applies:
 - Maybank, CIMB, Public Bank Annual Reports (2024)
 - JPS Malaysia Flood Mapping Data
 - TCFD Guidelines
-- 
+  
 🚀 Key Contribution
 This project demonstrates how climate risk can be translated into financial loss metrics, making it directly usable for:
 - Banking risk management
